@@ -37,7 +37,7 @@ We believe in the power of teamwork and collaboration, both within our organizat
 
 ## Leadership Team
 
-### @Aarav Mittal
+### [@Aarav Mittal](https://www.linkedin.com/in/aaravmittal/)
 - **Director of Technology (CTO)**
 - Overseeing the strategic direction and integration of technology teams.
 
@@ -45,7 +45,7 @@ We believe in the power of teamwork and collaboration, both within our organizat
 - **Director of Machine Learning**
 - Leading the AI and machine learning initiatives, ensuring the creation of innovative solutions.
 
-### @Krishna Kovuri
+### [@Krishna Kovuri](https://www.linkedin.com/in/krishna-kovuri-3a8a972a7/)
 - **Interim Lead for Web Development**
 - Leading web development efforts, covering both frontend and backend development.
 
@@ -80,7 +80,7 @@ We offer three main services to businesses and non-profits:
 
 ## Hiring Information
 
-We are always looking for talented individuals to join our team. If you are interested in AI/ML Intern positions or team lead roles, please forward your resume to Sunkalp via email at [sunkalp.chandra@gmail.com ](mailto:sunkalp.chandra@gmail.com ) or Medhansh (co-CEO) for official hiring. The Director of Technology will have the final say in all hiring decisions.
+We are always looking for talented individuals to join our team. If you are interested in AI/ML Intern positions or team lead roles, please forward your resume to Sunkalp via email at [sunkalp.chandra@gmail.com](mailto:sunkalp.chandra@gmail.com) or Medhansh (co-CEO) via email at [medhpuri@gmail.com](mailto:medhpuri@gmail.com) for official hiring. The Director of Technology will have the final say in all hiring decisions.
 
 ## Contact Us
 
