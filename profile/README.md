@@ -2,7 +2,7 @@
 
 Empowering businesses with cutting-edge AI solutions, we drive transformative growth, efficiency, and innovation.
 
-![Insightful AI Strategies Banner](https://via.placeholder.com/1200x400)
+![Insightful AI Strategies Banner](https://github.com/insightfulaistrategiesofficial/.github/blob/main/profile/images/ias_banner.webp)
 
 ## Overview
 
@@ -89,4 +89,4 @@ For inquiries, please message us on LinkedIn or reach out to us via email at [in
 Stay updated with our latest news and updates by following us on LinkedIn:
 [Follow Insightful AI Strategies](https://www.linkedin.com/company/insightful-ai-strategies)
 
-![Insightful AI Strategies Footer](https://via.placeholder.com/1200x200)
+![Insightful AI Strategies Footer](https://github.com/insightfulaistrategiesofficial/.github/blob/main/profile/images/ias_footer.webp)
