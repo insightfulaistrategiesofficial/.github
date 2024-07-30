@@ -45,8 +45,8 @@ We believe in the power of teamwork and collaboration, both within our organizat
 - **Director of Machine Learning**
 - Leading the AI and machine learning initiatives, ensuring the creation of innovative solutions.
 
-### [@Krishna Kovuri](https://www.linkedin.com/in/krishna-kovuri-3a8a972a7/)
-- **Interim Lead for Web Development**
+### [@Saketh Satti](https://www.linkedin.com/in/saketh-satti-8177782b4/)
+- **Director of Web Development**
 - Leading web development efforts, covering both frontend and backend development.
 
 ## What We Do at IAS
